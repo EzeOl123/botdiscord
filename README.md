@@ -1,8 +1,8 @@
 # botdiscord
-Artillery Bot Calculator
-Commands
-!mlrs (distance) (altitude)
-!help 
-!commands
-!bot
+Artillery Bot Calculator <br>
+Commands <br>
+!mlrs (distance) (altitude) <br>
+!help <br>
+!commands <br>
+!bot <br>
 nolevanta = 'insert your channel id'
